@@ -1,0 +1,5 @@
+output/
+results/
+*.log
+*.tmp
+.env
